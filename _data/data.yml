@@ -18,7 +18,7 @@ sidebar:
     #phone: 012 345 6789
     website: about.skokovic.me #do not add http://
     linkedin: skokovic
-    github: Fus1oNn
+    github: skokovic
     twitter: '@_skokovic_'
 
     languages:
@@ -38,7 +38,7 @@ sidebar:
           item: Gaming
           link:
         - interest:
-          item: 
+          item: Playing tennis
           link:
 
 
@@ -48,7 +48,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'Competent embedded engineer, currently pursuing Master's degree in Computer Engineering at FER, Zagreb. Passionate about coding, automating stuff, building.'
 
 
 studies:
@@ -77,82 +77,80 @@ experiences:
 
 
     experiences:
+        - role: DevOps Engineer
+          time: 2018 - Present
+          company: Comsysto Reply, Zagreb
+          details: 
         - role: System Administrator / DevOps Engineer
-          time: 2017 - Present
+          time: May 2017 - Sep 2018
           company: Comprigo, Zagreb / Cologne
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+          details: 
 
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: 
 
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: Flighter API
+        link: "https://github.com/skokovic/flighter-api"
+        tagline: "Booking flights API in Ruby on Rails"
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: FindingSuspects
+        link: https://gitlab.com/ivonask/gn00ms"
+        tagline: "Desktop application written in Java/JavaFX, database for criminal records"
       - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        title: uWish
+        link: "https://github.com/kslacanac/uWish"
+        tagline: "Social network for gift ideas and wishes in Android, Mobile app"
 
 
 
 
 
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+#publications:
+#    title: Publications
+#    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#    publications:
+#      - paper:
+#        title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#      - paper:
+#        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#      - paper:
+#        title: A syntax directed compiler for Algol 60
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: GNU/Linux, Cloud, Docker, Kubernetes
+          level: 90%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
+          name: C / Embedded C 
           level: 85%
         - skill:
-          name: Sketch & Photoshop
+          name: Scripting (Bash, Python, Ruby)
+          level: 85%
+        - skill:
+          name: Ruby on Rails
+          level: 80%
+        - skill:
+          name: Java / Android
+          level: 70%
+        - skill:
+          name: Web development (HTML, CSS, JS)
+          level: 60%
+        - skill:
+          name: RDBS + NOSQL DBs
           level: 60%
 
 
